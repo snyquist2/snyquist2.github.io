@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - snyquist2
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ShalekLab/alexandria
+  - ShalekLab/tcrgo
+  - ShalekLab/MIT_Milk_Study
