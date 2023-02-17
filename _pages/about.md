@@ -19,4 +19,4 @@ I am a postdoc in Barbara Engelhardt's group at Gladstone Institutes. Previously
 
 My current research interests include computational biology applied to [maternal and women's health](https://news.mit.edu/2021/sarah-nyquist-reproductive-health-0617). 
 
-As an undergraduate, I studied computer science at Rice University and [completed my thesis](https://csprofiles.rice.edu/2016/04/28/snyquist/ ) under the direction of Erez Lieberman-Aiden. I contributed to the [DNA Zoo project](https://www.dnazoo.org/) and the Biotechniques Lab Grammy award-winning [video](https://www.youtube.com/watch?v=dES-ozV65u4 ) on the 3D genome.
+As an undergraduate, I studied computer science at Rice University and [completed my thesis](https://csprofiles.rice.edu/2016/04/28/snyquist/ ) under the direction of Erez Lieberman-Aiden. I contributed to the [DNA Zoo project](https://www.dnazoo.org/) and the Biotechniques Lab Grammy award-winning [video](https://www.youtube.com/watch?v=dES-ozV65u4 ) on the 3D genome. While at Rice, I also spent time in [Dan Wagner's](https://profiles.rice.edu/faculty/daniel-wagner) zebrafish development lab.
